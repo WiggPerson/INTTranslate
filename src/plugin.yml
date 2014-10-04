@@ -1,0 +1,9 @@
+# INTTranslate v1.0
+# Copyright (c) WiggPerson. All rights reserved.
+name: INTTranslate
+version: 1.0
+author: WiggPerson
+dev-url: http://bukkit.sk/
+
+# Plugin's Main Class 
+main: eu.intezzy.inttranslate.Main
